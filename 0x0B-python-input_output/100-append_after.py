@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Defines appending function in a text file."""
 
+
 def append_after(filename="", search_string="", new_string=""):
     """Insert text (new_string) after given text (search_strin) in a file
 

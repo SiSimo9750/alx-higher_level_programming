@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Defines Pascal's Triangle function."""
 
+
 def pascal_triangle(n):
     """Represent size n Pascal's Triangle.
 
