@@ -1,4 +1,3 @@
-# 7-add_item.py
 #!/usr/bin/python3
 """Generate list from arguments and save to a file."""
 import sys
