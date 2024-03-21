@@ -5,7 +5,7 @@ exports.esrever = function (list) {
   while ((MyListLength - myIndx) > 0) {
     const TempoVar = list[MyListLength];
     list[MyListLength] = list[myIndx];
-    list[myIndx] = TempVar;
+    list[myIndx] = TempoVar;
     myIndx++;
     MyListLength--;
   }
