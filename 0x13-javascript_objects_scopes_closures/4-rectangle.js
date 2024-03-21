@@ -16,6 +16,7 @@ class Rectangle {
       console.log(Xchar);
     }
   }
+
   rotate () {
     const TempoVar = this.width;
     this.width = this.height;
